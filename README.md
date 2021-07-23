@@ -1,0 +1,1 @@
+This repo holds the natural language processing exercises while at Codeup.
